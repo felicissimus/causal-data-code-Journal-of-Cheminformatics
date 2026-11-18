@@ -1,0 +1,27 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Preeyaporn Poldorn, Zhaofa Li, Runfeng Jin, Pengju Ren,
+Yong-wang Li, GuanHua Chen, and James P. Lewis
+
+The following datasets are licensed under the Creative Commons Attribution
+4.0 International License:
+
+- da-01-BU.csv
+- da-02-BU.csv
+- da-04-BU.csv
+
+License: https://creativecommons.org/licenses/by/4.0/
+Legal terms: https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+Attribution for these data:
+Poldorn P, Li Z, Jin R, Ren P, Li Y, Chen G, Lewis JP (2026).
+Causal Associations in Diels-Alder Reactions. Processed descriptor datasets
+distributed in the causal-JACS-submit-data-code submission package.
+
+Retain the attribution and license notice, link to the license, and indicate
+changes when sharing adapted data, as required by the license. This notice
+does not replace the full legal terms linked above. No manuscript DOI or
+public dataset DOI has been assigned in this package.
+
+The Python code and associated documentation have a separate MIT license;
+see LICENSE-CODE.txt.
